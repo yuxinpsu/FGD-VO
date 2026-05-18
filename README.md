@@ -60,7 +60,7 @@ Python inference.py
 ```
 
 ## 5. Evaluation 
-Please refer to the [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main) repository for more details about the evaluation metrics and how to run the evaluation toolbox. Or you can go to [KITTI odometry evaluation toolbox](https://github.com/Huangying-Zhan/kitti-odom-eval) for more details. 
+Please refer to the [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main) repository for more details about doing the evaluation. Or you can go to [KITTI odometry evaluation toolbox](https://github.com/Huangying-Zhan/kitti-odom-eval) for more details. 
 
 ## 6. Results and pre-trained models
 Here you find the results and the pre-trained models. <br>
@@ -71,4 +71,4 @@ Here you find the results and the pre-trained models. <br>
 <img src="doc/Tab2.png" width=600> <br>
 
 (3) For the [model](https://drive.google.com/file/d/1PMqxllT6jTuMImBSoJSEKJOkfJAQvG61/view?usp=sharing) trianed on sequeces 0, 1, 2, 4, 5, and 6:
-<img src="doc/Tab3.png" width=600> <br>
+<img src="doc/Tab3.png" width=600>
