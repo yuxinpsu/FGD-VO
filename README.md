@@ -75,3 +75,8 @@ Here you find the results and the pre-trained models. <br>
 
 (4) Visualize Trajectories: 
 <img src="doc/viz.png" width=1000>
+
+## Acknowledgments
+We thank all the following open-source project for the help of the implementations:
+- [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main)
+- [TSformer-VO](https://github.com/aofrancani/TSformer-VO/tree/main)
