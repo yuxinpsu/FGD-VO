@@ -57,3 +57,6 @@ Please configure the checkpoint and dataset paths before running
 ```
 Python inference.py
 ```
+
+## 5. Evaluation 
+Please refer to the [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main) repository for more details about the evaluation metrics and how to run the evaluation toolbox.
