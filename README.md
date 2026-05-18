@@ -38,3 +38,6 @@ conda create -n fgdvo python==3.8.0
 conda activate fgdvo
 ```
 
+- Install PyTorch and CUDA dependencies:
+  ```bash
+  conda install pytorch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
