@@ -65,4 +65,6 @@ Please refer to the [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main) re
 ## 6. Results and pre-trained models
 Here you find the results and the pre-trained models. <br>
 (1) For the [model](https://drive.google.com/file/d/10561y0xB1xpNKRnGejyoPw0VtgTyJrh7/view?usp=sharing) trianed on sequeces 0, 1, 2, 8, and 9: 
-<img src="doc/Tab1.png" width=1000>
+<img src="doc/Tab1.png" width=1000> <br>
+
+(2) For the [model](https://drive.google.com/file/d/1Mg2-GDe8mADTPcTFcH5WZLxrT_RnUWlZ/view?usp=sharing) trianed on sequeces 0, 1, 2, 4, 5, 6, 7, and 8:
