@@ -48,7 +48,7 @@ cd RAFT
 ```
 
 ## 3. Train
-Please configure the training sequence before running
+Please configure the training sequences before running
 ```
 Python main.py --data_root /PATH/sequences
 ```
@@ -61,3 +61,5 @@ Python inference.py
 
 ## 5. Evaluation 
 Please refer to the [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main) repository for more details about the evaluation metrics and how to run the evaluation toolbox.
+
+## 6. Results and pre-trained models
