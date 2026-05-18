@@ -63,3 +63,6 @@ Python inference.py
 Please refer to the [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main) repository for more details about the evaluation metrics and how to run the evaluation toolbox.
 
 ## 6. Results and pre-trained models
+Here you find the results and the pre-trained models:
+(1) For the model trianed on sequeces 0, 1, 2, 8, and 9: 
+<img src="doc/tab1.png" width=1000>
