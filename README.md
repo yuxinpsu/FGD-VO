@@ -43,13 +43,11 @@ conda activate fgdvo
 conda install pytorch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 ```
 
-- Clone this repository and navigate into it:
-```
-git clone [https://github.com/yuxinpsu/FGD-VO.git](https://github.com/yuxinpsu/FGD-VO.git)
-cd FGD-VO
-```
-
 - Install RAFT:
 ```
-conda install pytorch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
+git clone https://github.com/yuxinpsu/FGD-VO.git
+cd FGD-VO/third party/
+git clone https://github.com/princeton-vl/RAFT.git
+cd RAFT
+./download_models.sh
 ```
