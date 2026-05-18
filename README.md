@@ -48,6 +48,7 @@ cd RAFT
 ```
 
 ## 3. Train
+Please configure the training sequence before running
 ```
 Python main.py --data_root /PATH/sequences
 ```
