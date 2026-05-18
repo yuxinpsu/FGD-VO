@@ -69,3 +69,6 @@ Here you find the results and the pre-trained models. <br>
 
 (2) For the [model](https://drive.google.com/file/d/1Mg2-GDe8mADTPcTFcH5WZLxrT_RnUWlZ/view?usp=sharing) trianed on sequeces 0, 1, 2, 4, 5, 6, 7, and 8:
 <img src="doc/Tab2.png" width=600> <br>
+
+(3) For the [model](https://drive.google.com/file/d/1PMqxllT6jTuMImBSoJSEKJOkfJAQvG61/view?usp=sharing) trianed on sequeces 0, 1, 2, 4, 5, and 6:
+<img src="doc/Tab3.png" width=600> <br>
