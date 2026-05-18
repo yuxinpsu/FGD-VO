@@ -34,7 +34,7 @@ The data structure should be as follows:
 ## 2. Setup
 - Create a virtual environment using Anaconda and activate it:
 ```
-conda create -n tsformer-vo python==3.8.0
+conda create -n fgdvo python==3.8.0
 conda activate fgdvo
 ```
 
