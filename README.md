@@ -53,6 +53,7 @@ Python main.py --data_root /PATH/sequences
 ```
 
 ## 4. Inference
+Please configure the checkpoint and dataset paths before running
 ```
 Python inference.py
 ```
