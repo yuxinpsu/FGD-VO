@@ -6,11 +6,6 @@ Official repository of the paper: Enhancing Autonomous Vehicle Visual Odometry w
 
 <img src="FGDVO.png" width=1000>
 
-## Contents
-1. [Dataset](#1-dataset)
-2. [Setup](#2-setup)
-
-
 ## 1. Dataset
 Download the [KITTI odometry dataset (color).](https://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 The data structure should be as follows:
@@ -50,4 +45,14 @@ cd FGD-VO/third party/
 git clone https://github.com/princeton-vl/RAFT.git
 cd RAFT
 ./download_models.sh
+```
+
+## 3. Train
+```
+Python main.py --data_root /PATH/sequences
+```
+
+## 4. Inference
+```
+Python inference.py
 ```
