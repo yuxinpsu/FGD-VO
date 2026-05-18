@@ -72,3 +72,6 @@ Here you find the results and the pre-trained models. <br>
 
 (3) For the [model](https://drive.google.com/file/d/1PMqxllT6jTuMImBSoJSEKJOkfJAQvG61/view?usp=sharing) trianed on sequeces 0, 1, 2, 4, 5, and 6:
 <img src="doc/Tab3.png" width=600>
+
+(4) Visualize Trajectories: 
+<img src="doc/viz.png" width=1000>
