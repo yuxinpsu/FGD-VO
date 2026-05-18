@@ -12,3 +12,20 @@ Official repository of the paper: Enhancing Autonomous Vehicle Visual Odometry w
 
 ## 1. Dataset
 Download the [KITTI odometry dataset (color).](https://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+The data structure should be as follows:
+```
+|---data_odometry_color
+    |---dataset
+        |---sequences
+            |---00
+                |---image_2
+                    |---000000.png
+                    |---000001.png
+                    |---...
+                |---image_3
+                    |...
+                |---calib.txt
+                |---times.txt          
+            |---01
+            |---...
+```
