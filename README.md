@@ -80,3 +80,4 @@ Here you find the results and the pre-trained models. <br>
 We thank all the following open-source project for the help of the implementations:
 - [PWCLONet](https://github.com/IRMVLab/PWCLONet/tree/main)
 - [TSformer-VO](https://github.com/aofrancani/TSformer-VO/tree/main)
+- [RAFT](https://github.com/princeton-vl/RAFT/tree/master)
